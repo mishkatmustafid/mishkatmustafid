@@ -3,6 +3,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishkatmustafid&count_private=true&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishkatmustafid)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
