@@ -1,7 +1,7 @@
 ### Hi there, I'm Mishkat Mustafid 👋
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishkatmustafid)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishkatmustafid&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
